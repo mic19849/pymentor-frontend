@@ -1,0 +1,30 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the correct way to declare a function in Python?",
+    "options": [
+      "function myFunc()",
+      "def myFunc():",
+      "create myFunc()",
+      "func myFunc():"
+    ],
+    "answer": "def myFunc():"
+  },
+  {
+    "id": "q2",
+    "question": "Which of these is a Python data type?",
+    "options": ["String", "Integer", "Boolean", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": "q3",
+    "question": "What does the 'len()' function do?",
+    "options": [
+      "Adds two numbers",
+      "Returns the number of elements",
+      "Converts to lowercase",
+      "Prints the output"
+    ],
+    "answer": "Returns the number of elements"
+  }
+]
